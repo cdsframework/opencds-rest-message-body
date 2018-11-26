@@ -34,4 +34,17 @@
         </dependency>
     </dependencies>
 
+    <repositories>
+        <repository>
+            <id>support.hln.com-snapshots</id>
+            <name>support.hln.com-snapshots</name>
+            <url>https://support.hln.com/artifactory/libs-snapshot-local</url>
+        </repository>
+        <repository>
+            <id>support.hln.com-releases</id>
+            <name>support.hln.com-releases</name>
+            <url>https://support.hln.com/artifactory/libs-release-local</url>
+        </repository>
+    </repositories>
+
 </project>
